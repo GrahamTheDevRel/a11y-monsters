@@ -3,7 +3,7 @@ Bootcamps, online tutorials and courses very rarely cover the most important asp
 
 The A11y (short for Accessibility) monsters are a community of designers, developers and tech professionals who want to learn more about accessibility and strive to include accessibility principles in every aspect of their work.
 
-Together we can help hundreds, thousands and even millions of people by removing barriers, increasing inclusion and making the web what is should be: a place for everyone.
+Together we can help hundreds, thousands and even millions of people by removing barriers, increasing inclusion and making the web what it should be: a place for everyone.
 
 ## Contents:
 - [Getting Started](#getting-started) - join the community and get involved in less than 5 minutes
@@ -12,7 +12,7 @@ Together we can help hundreds, thousands and even millions of people by removing
 
 
 ## Getting started
-Announcements, the schedule for streeams and events and relevant resources are all available on the A11y Monsters Discord server.
+Announcements, the schedule for streams and events and relevant resources are all available on the A11y Monsters Discord server.
 
 ### 1. Join the Discord Server
 Join the [A11y Monsters Discord Server](https://discord.gg/RB5cRdXyDb)
@@ -22,7 +22,7 @@ Although not a necessary requirement to follow along with the course, being part
 ### 2. Familiarise yourself with this repository
 This repository is the central location where all lessons, exercises and related resources are stored.
 
-If you want some help getting familiar with the repository, the check out the [welcome page](welcome.md) which details where items can be found easily.
+If you want some help getting familiar with the repository, check out the [welcome page](welcome.md) which details where items can be found easily.
 
 ### 3. Get going!
 That is it! Once you know your way around the repository, [clone it](Instructions/clone-the-repo.md) and start following along with the [lesson plan](Lessons/lessons.md);
@@ -52,7 +52,7 @@ A strong focus on practical learning. Each week we will audit projects for acces
 [WCAG 101](https://github.com/GrahamTheDevRel/WCAG101) is an open source project designed to simplify WCAG. As you learn accessibility there will be loads of opportunities to contribute code examples, snippets, explanations and more to this resource.
 
 ### Fun and friendship
-The occassional bit of spice, a few silly jokes and a community of like-minded people. 
+The occasional bit of spice, a few silly jokes and a community of like-minded people. 
 
 ## Speaking of friendship
 If you want to include your name and socials in the [community members list](community-members.md) and make some connections, feel free to do so!
