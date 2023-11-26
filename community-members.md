@@ -13,3 +13,5 @@ There are two ways to share your info:
 | Name            | BioDrop                                                                       | Community Profile                                                |
 | ---             | ---                                                                           | ---                                                              | 
 | GrahamTheDev    | [GrahamTheDev on BioDrop](https://www.biodrop.io/GrahamTheDevRel)             | [GrahamTheDev Profile](Community-profiles/GrahamTheDev.md)       | 
+| ---             | ---                                                                           | ---                                                              | 
+| Johnson Masino  | [Johnson Masino on BioDrop](https://www.biodrop.io/JohnsonMasino)             | [JohnsonMasino Profile](Community-profiles/JohnsonMasino.md)     | 
