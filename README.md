@@ -49,7 +49,7 @@ A weekly "office hours" on the server where we will review your sites, and those
 A strong focus on practical learning. Each week we will audit projects for accessibility errors (and you will learn how to audit them yourself!) and then we will create a load of issues so you can get those green squares by applying what you have learned!
 
 ### Projects to get involved in
-WCAG 101 is an open source project designed to simplify WCAG. As you learn accessibility there will be loads of opportunities to contribute code examples, snippets, explanations and more to this resource.
+[WCAG 101](https://github.com/GrahamTheDevRel/WCAG101) is an open source project designed to simplify WCAG. As you learn accessibility there will be loads of opportunities to contribute code examples, snippets, explanations and more to this resource.
 
 ### Fun and friendship
 The occassional bit of spice, a few silly jokes and a community of like-minded people. 
