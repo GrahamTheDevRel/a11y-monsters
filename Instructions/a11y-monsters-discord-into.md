@@ -1,1 +1,1 @@
-# The Accessibility (A11y) Mosnters Discord
+# The Accessibility (A11y) Monsters Discord
