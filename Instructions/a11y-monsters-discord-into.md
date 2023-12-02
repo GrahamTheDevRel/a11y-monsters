@@ -1,6 +1,6 @@
 # The Accessibility (A11y) Monsters Discord
 
-Navigate across A11y Monsters Discord server with following channels:
+Navigate across [A11y Monsters Discord server](https://discord.gg/eZ6ghXvG) with following channels:
 
 ## Text Channels
 
