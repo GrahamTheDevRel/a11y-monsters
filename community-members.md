@@ -10,8 +10,10 @@ There are two ways to share your info:
 [Instructions on how to add your details](Instructions/community-profile-instructions.md).
 
 ## Members List
-| Name            | BioDrop                                                                       | Community Profile                                                |
+| Name            | BioDrop                                                                       | Community Profile                                                | 
 | ---             | ---                                                                           | ---                                                              | 
-| GrahamTheDev    | [GrahamTheDev on BioDrop](https://www.biodrop.io/GrahamTheDevRel)             | [GrahamTheDev Profile](Community-profiles/GrahamTheDev.md)       |                                    | 
+| GrahamTheDev    | [GrahamTheDev on BioDrop](https://www.biodrop.io/GrahamTheDevRel)             | [GrahamTheDev Profile](Community-profiles/GrahamTheDev.md)       | 
 | Johnson Masino  | [Johnson Masino on BioDrop](https://www.biodrop.io/JohnsonMasino)             | [JohnsonMasino Profile](Community-profiles/JohnsonMasino.md)     | 
-| Atharva  | [Atharva on BioDrop](https://www.biodrop.io/at-the-vr)                               | [Atharva Profile](Community-profiles/Atharva.md)     | 
+| Atharva  | [Atharva on BioDrop](https://www.biodrop.io/at-the-vr)                               | [Atharva Profile](Community-profiles/Atharva.md)                 | 
+| Jake Damon  | [Jake Damon on BioDrop](https://www.biodrop.io/JakeDamon)                         | [JakeDamon Profile](Community-profiles/JakeDamon.md)             | 
+
