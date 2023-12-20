@@ -16,4 +16,5 @@ There are two ways to share your info:
 | Johnson Masino  | [Johnson Masino on BioDrop](https://www.biodrop.io/JohnsonMasino)             | [JohnsonMasino Profile](Community-profiles/JohnsonMasino.md)     | 
 | Atharva  | [Atharva on BioDrop](https://www.biodrop.io/at-the-vr)                               | [Atharva Profile](Community-profiles/Atharva.md)                 | 
 | Jake Damon  | [Jake Damon on BioDrop](https://www.biodrop.io/JakeDamon)                         | [JakeDamon Profile](Community-profiles/JakeDamon.md)             | 
+| Krish Gupta  | [Krish Gupta on BioDrop](https://www.biodrop.io/xkrishguptaa)                         | [xkrishguptaa Profile](Community-profiles/xkrishguptaa.md)             |
 
